@@ -1,0 +1,5 @@
+// node.js와 JS와 관련된 원하는 모든 설정들을 여기에 집어 넣을거임
+
+{
+  "presets": ["@babel/preset-env"]
+}
